@@ -1,0 +1,24 @@
+.ui-test-cl-wrapper {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.ui-test-cl-class {
+    color: green;
+    font-weight: bold;
+}
+
+.cl-test{
+    position:relative;
+}
+
+.cl-test .label {
+    fill:currentColor;
+    font-size:0.5rem;
+    dominant-baseline:hanging;
+}
+
+.cl-test .value {
+    fill:currentColor;
+}
